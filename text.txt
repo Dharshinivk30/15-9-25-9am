@@ -6,3 +6,4 @@ sky is blue
 trees are green
 final line
 ufjsasfk
+hello we are learning git fetch
